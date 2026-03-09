@@ -29,6 +29,7 @@ FER-Project/
     └── test/
         ├── happy/            # 92 images
         └── sad/              # 93 images
+```
 
 ##⚙️ Installation & Setup
 1. Clone the repository
